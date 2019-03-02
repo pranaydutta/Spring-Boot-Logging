@@ -1,0 +1,7 @@
+2019-01-05 21:08:43 [restartedMain] INFO  c.s.l.a.SpringBootLoggingApplication - Starting SpringBootLoggingApplication on DESKTOP-UUGS1Q7 with PID 5872 (started by Pranay in G:\Spring 260217\Spring-Boot-Logging)
+2019-01-05 21:08:43 [restartedMain] DEBUG c.s.l.a.SpringBootLoggingApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-05 21:08:43 [restartedMain] INFO  c.s.l.a.SpringBootLoggingApplication - No active profile set, falling back to default profiles: default
+2019-01-05 21:08:46 [restartedMain] INFO  c.s.l.a.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 2.533 seconds (JVM running for 3.345)
+2019-01-05 21:08:53 [http-nio-8080-exec-1] DEBUG c.s.l.a.SpringBootLoggingApplication - Request test
+2019-01-05 21:10:11 [http-nio-8080-exec-2] DEBUG c.s.l.a.SpringBootLoggingApplication - Request Rani
+2019-01-05 21:10:11 [http-nio-8080-exec-2] DEBUG c.s.l.a.SpringBootLoggingApplication - Response {}Hi RaniI Love You
